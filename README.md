@@ -1,6 +1,3 @@
-# tearful-hobbies-2505
-
-Swagger ui-http://localhost:8088/swagger-ui/ Use swagger after Starting spring Application to get details about API's
 
 
 
@@ -62,3 +59,20 @@ Contributors
 - @Bubai Ghosh
 - @Navneet Singh
 
+## Installation & Run
+
+- To run this API server, you should update the database configuration inside the application.properties file which is present in the src/main/resources folder.
+- Update the port number, username and password as per your local database configuration.
+- server.port=8088
+spring.datasource.url=jdbc:mysql://localhost:3306/FoodExpress;
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.datasource.username=your_username_here
+spring.datasource.password=your_password_here
+```
+## API Root Endpoint
+```
+https://localhost:8088/
+```
+```
+https://localhost:8088/swagger-ui.html
+```
