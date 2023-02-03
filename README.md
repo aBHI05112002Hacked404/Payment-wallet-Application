@@ -63,16 +63,16 @@ Contributors
 
 - To run this API server, you should update the database configuration inside the application.properties file which is present in the src/main/resources folder.
 - Update the port number, username and password as per your local database configuration.
-- server.port=8088
-spring.datasource.url=jdbc:mysql://localhost:3306/FoodExpress;
+- server.port=8888
+spring.datasource.url=jdbc:mysql://localhost:3306/paykaro
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 spring.datasource.username=your_username_here
 spring.datasource.password=your_password_here
 ```
 ## API Root Endpoint
 ```
-https://localhost:8088/
+http://localhost:8888/
 ```
 ```
-https://localhost:8088/swagger-ui.html
+http://localhost:8888/swagger-ui/
 ```
