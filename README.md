@@ -5,6 +5,10 @@
 It is built to support all the functionality related to managing a online payment wallet application for XYZ bank. We will discuss each aspect of this project in detail for enhanced understanding. The Payment wallet Application project is designed in Spring Boot and Hibernate along with the source code. Customers will be able to park their money in the wallet , pay different bills using this wallet and customers should be able to connect bank account with this payment wallet and add money.  On the other hand, Application should allow customers to check the balance, deposit money etc.
 
 
+
+![Slide 1 (1)](https://user-images.githubusercontent.com/103949784/226496104-41075c45-df07-45d0-aa16-311fdc6fbf69.jpeg)
+
+
 <br>
   
 # ER Diagram
@@ -60,12 +64,37 @@ The following Diagram depicts the flow of our Entity Relation Diagram to simplif
 
 # Modules
 <hr>
-<li>Login Logout User authentication
-<li>Wallet
-<li>BankAccount
-<li>BeneficiaryDetails
-<li>BillPayment
-<li>Transaction
+
+
+<li>Login Logout User authentication, and their methods 
+
+![Slide 11](https://user-images.githubusercontent.com/103949784/226496359-65824ed8-bdbf-4b02-ab23-0c3420f568ac.jpeg)
+
+<li>Account Module, and their methods 
+
+![Slide 8](https://user-images.githubusercontent.com/103949784/226497357-eccc57a5-5832-4464-a5d0-bad1e2b0b120.jpeg)
+
+<li>Customer Module, and their methods 
+
+![Slide 9](https://user-images.githubusercontent.com/103949784/226497869-dfb4c2f6-d1ca-46d3-89cc-57157a176ba9.jpeg)
+
+
+<li>BankAccount Module, and their methods
+
+![Slide 5](https://user-images.githubusercontent.com/103949784/226497546-6e74beac-68d9-4895-b990-6744ef1bb08e.jpeg)
+
+
+<li>Beneficiary Details Module, and their methods
+
+![Slide 7](https://user-images.githubusercontent.com/103949784/226497603-19882dc9-c0cf-4292-bed2-769fd4fc918b.jpeg)
+
+<li>BillPayment Module, and their methods
+
+![Slide 10](https://user-images.githubusercontent.com/103949784/226497675-3cb37b9d-19e8-4d27-8856-a72c35954fe6.jpeg)
+
+<li>Transaction Module, and their methods
+
+![Slide 6](https://user-images.githubusercontent.com/103949784/226497727-e7957234-b9b0-4b58-a1b6-0e4fe5f09d2f.jpeg)
 
 <br>
 <br>
