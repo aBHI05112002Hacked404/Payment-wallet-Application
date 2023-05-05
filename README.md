@@ -30,9 +30,9 @@ The following Diagram depicts the flow of our Entity Relation Diagram to simplif
 <br>
 <br>
 
-1) Bubai Ghosh  -Team Lead, Responsible for creating and implementing the ER diagram and flow of the project.
+1) Abhishek Kumar -Team Lead, Responsible for creating and implementing the Customer module and flow of the project.
 
-2) Abhishek Kumar -Responsible for creating the Repository while making sure of proper implementation Of Controllers
+2) Bubai Ghosh -Responsible for creating the Repository while making sure of proper implementation Of Controllers.
 
 3) Abhishek Kumar -Responsible For handeling the Exceptions and Creating the Service Layer.
 
